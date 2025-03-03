@@ -1,4 +1,4 @@
-# 🌍 AI-Powered Travel Planner
+# 🌍 Travel Planner By AI
 
 ## Overview
 The **AI Powered Travel Planner** is a smart travel assistant that helps users find the best travel options  two locations. It utilizes AI to provide recommendations for flights, trains, buses, and cabs, considering factors such as distance, estimated travel time, and cost.
